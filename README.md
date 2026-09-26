@@ -18,8 +18,8 @@
 $ ./initialize --operator yona_laurent_anthony
 
 [ OK ] mounting identity ..................... yona laurent anthony
-[ OK ] handle ................................ i_am_squardii
+[ OK ] handle ................................ SquadNexus
 [ OK ] class ................................. Computer Engineering @ MUST
 [ OK ] location .............................. Mbeya, Tanzania [-8.9094, 33.4608]
-[ OK ] stack ................................. HTML, CSS, JavaScript, MySQL, Linux
-[ OK ] focus ................................. Web Development & Game Modding
+[ OK ] stack ................................. HTML, CSS, JavaScript, MySQL, Linux, programming
+[ OK ] focus ................................. Web Development, Game Modding and Critical IT knowledge
